@@ -1,0 +1,12 @@
+composer create-project laravel/laravel ten-project-cua-ban --prefer-dist
+php artisan migrate
+php artisan make:migration create_users_table --create=users
+
+
+
+git clone
+git pull
+git commit -m ""
+git push origin master
+git add ."file.txt"
+git rm "file ho?c folder"
